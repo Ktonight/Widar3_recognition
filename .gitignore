@@ -1,0 +1,9 @@
+.idea/
+venv/
+data/
+CRNN_ckpt/
+*.pth
+*.npy
+*.mat
+__pycache__/
+*.log
